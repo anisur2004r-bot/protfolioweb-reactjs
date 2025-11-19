@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "SmartShop - Online Store",
+    "categoryid": 1,
+    "description": "A responsive ecommerce website with product filter, cart system, and Firebase authentication.",
+    "image": "https://i.ibb.co.com/04F71LZ/Screenshot-2025-11-12-005248.png",
+    "language": "HTML, CSS,JavaScript",
+    "library": "React, Axios",
+    "framework": "Tailwind CSS, Firebase",
+    "live": "https://ecomarce-web-02.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "FreshMart - Grocery Ecommerce",
+    "categoryid": 1,
+    "description": "A grocery shopping web app with category-based products, search filter, and payment integration.",
+    "image": "https://i.ibb.co.com/ymqg78Ds/Screenshot-2025-11-12-005057.png",
+    "language": "HTML, CSS,JavaScript",
+    "library": "React, React Router",
+    "framework": "Tailwind CSS,",
+    "live": "https://ecomarce-web-01.netlify.app/"
+    
+  },
+  {
+    "id": 3,
+    "title": "TechTalk - Modern Blog Platform",
+    "categoryid": 2,
+    "description": "A clean blog website where users can read, post, and comment on articles.",
+    "image": "https://rainbowit.net/themes/inbio/wp-content/uploads/2021/08/portfolio-large-04-340x250.jpg",
+    "language": "HTML, CSS,JavaScript",
+    "library": "React, Axios",
+    "framework": "Next.js, Tailwind CSS",
+    "live": "https://scintillating-kangaroo-c99d1b.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "Computer supar shop",
+    "categoryid": 2,
+    "description": "A responsive travel blog with category filter, smooth animation, and image gallery.",
+    "image": "https://rainbowit.net/themes/inbio/wp-content/uploads/2021/09/marketing-young-cute-business-lady-striped-shirt-office-showing-raising-results-1-340x250.jpg",
+    "language": "HTML, CSS,JavaScript",
+    "library": "React, Framer Motion",
+    "framework": "Tailwind CSS",
+    "live": "https://subtle-dragon-b95a8c.netlify.app/"
+  },
+  {
+    "id": 5,
+    "title": "Anis Portfolio - Personal Website",
+    "categoryid": 3,
+    "description": "A personal portfolio showcasing projects, skills, and contact form with smooth animations.",
+    "image": "https://rainbowit.net/themes/inbio/wp-content/plugins/rainbow-demo/assets/demo/home-consulting.png",
+    "language": "HTML, CSS,JavaScript",
+    "library": "React, AOS",
+    "framework": "Tailwind CSS",
+    "live": "https://moonlit-melomakarona-dc11f2.netlify.app/"
+  },
+  {
+    "id": 6,
+    "title": "Creative Dev Portfolio",
+    "categoryid": 3,
+    "description": "A modern developer portfolio built with React and Tailwind, featuring animated skill sections.",
+    "image": "https://rainbowit.net/themes/inbio/wp-content/plugins/rainbow-demo/assets/demo/coming-soon-2.png",
+    "language": "HTML, CSS,JavaScript",
+    "library": "React, Framer Motion",
+    "framework": "Next.js, Tailwind CSS",
+    "live": "https://remarkable-tapioca-3a7338.netlify.app/"
+  }
+]
