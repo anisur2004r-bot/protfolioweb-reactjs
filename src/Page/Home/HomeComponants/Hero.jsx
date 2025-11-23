@@ -3,6 +3,7 @@ import icon1 from "../../../../src/assets/Image/facebook-logo.png"
 import icon2 from "../../../../src/assets/Image/github.png"
 import icon3 from "../../../../src/assets/Image/linkedin (1).png"
 import icon4 from "../../../../src/assets/Image/twitter (1).png"
+import myimg from "../../../../src/assets/Image/myimg.png"
 
 import skill1 from '../../../assets/Image/html-5.png';
 import skill2 from '../../../assets/Image/css-3.png';
@@ -38,13 +39,13 @@ const Hero = () => {
     return (
         <div id='home' data-aos="fade-up">
             <div className='relative'>
-                <div className='flex items-center justify-center border-b border-gray-600 mt-20 '>
-                    <img className='w-120 mask-b-from-160' src="https://i.ibb.co.com/zWvMFdhW/Gemini-Generated-Image-2olt012olt012olt-removebg-preview.png" alt="" />
+                <div className='flex items-center justify-center border-b border-gray-600 mt-20 py-8 '>
+                    <img className='w-120 mask-b-from-160' src={myimg} alt="" />
                 </div>
                 <div className='absolute top-50 md:top-70 flex flex-col gap-3 text-gray-100 items-center justify-center w-screen'>
-                    <h1  data-aos="zoom-in" className='text-3xl md:text-6xl font-bold text-gray-200'>Hi.I'm <span>ANI<span className='text-[#FF014F]'>SUR</span> RAHMAN</span></h1>
-                    <p  data-aos="flip-left" className='text-center tc md:text-gray-200 font-semibold w-100 md:w-180'>“I am a passionate Web Developer creating modern and responsive websites <br /> with clean code and great user experience.”</p>
-                    <h3 className='md:text-3xl text-2xl font-semibold'>I'm a <span className='text-[#FF014F] font-bold border-r'> {text}</span></h3>
+                    <h1  data-aos="zoom-in" className='text-2xl md:text-6xl font-bold text-gray-200'>Hi.I'm <span>ANI<span className='text-[#FF014F]'>SUR</span> RAHMAN</span></h1>
+                    <p  data-aos="flip-left" className='text-center tc md:text-gray-200 font-semibold w-90 md:w-180'>“I am a passionate Web Developer creating modern and responsive websites  with clean code and great user experience.”</p>
+                    <h3 className='md:text-3xl text-xl font-semibold'>I'm a <span className='text-[#FF014F] font-bold border-r'> {text}</span></h3>
                 </div>
                 <div  className='absolute top-100 md:top-120 w-screen'>
                     <div className=' container mx-auto md:flex md:flex-row justify-between items-center px-10'>

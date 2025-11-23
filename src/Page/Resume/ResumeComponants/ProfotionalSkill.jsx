@@ -22,7 +22,7 @@ const ProfotionalSkill = () => {
     return (
         <div  data-aos="flip-down" className="container mx-auto py-10 px-18">
             <div className='flex items-center justify-center py-4'>
-                <h3 className=' text-center text-xl font-semibold py-4 border-b rounded-full w-140 shadow-xl mb-4'>FrontEnd Development Skill</h3>
+                <h3 className=' text-center text-xl font-semibold py-4  w-140 shadow-xl mb-4'>FrontEnd Development Skill</h3>
             </div>
             <div className="grid md:grid-cols-2 gap-6">
                 {skills.map((skill, index) => (

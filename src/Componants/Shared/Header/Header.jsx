@@ -9,7 +9,7 @@ const Header = () => {
     const toggleMenu = () => setOpen(!open);
 
     return (
-        <div className="bg-[#212428] sticky top-0 z-50 shadow-md">
+        <div className="bg-[#212428] fixed w-full top-0 z-50 shadow-md">
             <div className="flex items-center justify-between container mx-auto py-3 px-4 md:px-0">
 
                 {/* Logo */}
@@ -51,6 +51,9 @@ const Header = () => {
                         <a href="#contact">CONTACT</a>
                     </li>
                 </ul>
+                <div className='hidden md:block lg:block'>
+                    <button className='bg-[#FF014F] px-8 py-3 rounded-md font-bold text-gray-300 hover:border hover:bg-[#212428] duration-500 cursor-pointer'><a href='#contact'>HIRE ME</a> </button>
+                </div>
 
                 {/* Mobile Menu Button */}
                 <div className="md:hidden">
