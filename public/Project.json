@@ -4,11 +4,11 @@
     "title": "Smartbazar - Online Store",
     "categoryid": 1,
     "description": "A responsive ecommerce website with product filter, cart system, and Firebase authentication.",
-    "image": "/src/assets/Image/Screenshot 2026-01-08 202114.png",
+    "image": "https://i.ibb.co.com/Z1gjdmSs/Screenshot-2026-01-08-202114.png",
     "language": "HTML, CSS,JavaScript",
     "library": "NextJs, Axios",
     "framework": "Tailwind CSS,",
-    "live": "https://smartbazar-electronics.versel.app/"
+    "live": "https://smartbazar-electronics.vercel.app/"
   },
   {
     "id": 2,
