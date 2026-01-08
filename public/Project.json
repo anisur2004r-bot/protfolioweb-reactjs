@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "SmartShop - Online Store",
+    "title": "Smartbazar - Online Store",
     "categoryid": 1,
     "description": "A responsive ecommerce website with product filter, cart system, and Firebase authentication.",
-    "image": "https://i.ibb.co.com/04F71LZ/Screenshot-2025-11-12-005248.png",
+    "image": "/src/assets/Image/Screenshot 2026-01-08 202114.png",
     "language": "HTML, CSS,JavaScript",
-    "library": "React, Axios",
-    "framework": "Tailwind CSS, Firebase",
-    "live": "https://ecomarce-web-02.netlify.app/"
+    "library": "NextJs, Axios",
+    "framework": "Tailwind CSS,",
+    "live": "https://smartbazar-electronics.versel.app/"
   },
   {
     "id": 2,
@@ -31,7 +31,7 @@
     "language": "HTML, CSS,JavaScript",
     "library": "React, Axios",
     "framework": "Next.js, Tailwind CSS",
-    "live": "https://scintillating-kangaroo-c99d1b.netlify.app/"
+    "live": "https://ecomarce-web-01.netlify.app/"
   },
   {
     "id": 4,
@@ -64,6 +64,6 @@
     "language": "HTML, CSS,JavaScript",
     "library": "React, Framer Motion",
     "framework": "Next.js, Tailwind CSS",
-    "live": "https://remarkable-tapioca-3a7338.netlify.app/"
+    "live": "https://scintillating-kangaroo-c99d1b.netlify.app/"
   }
 ]
